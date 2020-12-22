@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "buffer": "^4.9.1",
-    "sjcl": "^1.0.3"
+    "sjcl": "git@github.com:bitwiseshiftleft/sjcl.git#master"
   },
   "author": "Mark Vayngrib <mark.vayngrib@lablz.com> (http://github.com/mvayngrib)",
   "license": "ISC"
